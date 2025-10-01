@@ -25,6 +25,9 @@ src/Electrodeionization_R2024b.slx (MATLAB/Simulink Ver. 2024b)
 # Source
 
 [1] Numerical simulation of the electrodeionization (EDI) process for producing ultrapure water, Lu et al. (2010), doi:10.1016/j.electacta.2010.07.054
+
 [2] Continuous Electrodeionizatio, Jonathan H. et al. (2019), Desalination 2nd Edition, (287–328) 
+
 [3] Production of ultrapure water by continuous electrodeionization, Jonathan Wood (2009), doi:10.1016/j.desal.2009.09.084
+
 [4] Electrodeionization: Principles, Strategies and Applications, Lucia Alvarado(2014), doi:10.1016/j.electacta.2014.03.165
