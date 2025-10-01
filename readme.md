@@ -13,7 +13,7 @@ DECHEMA has bundled various aspects of the energy transition with regard to wate
 An Electrodeionization (EDI) system is a technology for producing high-purity water that combines ion exchange and electrodialysis. In this process, dissolved ions are captured by mixed-bed ion exchange resins and continuously removed through selective cation and anion exchange membranes under an applied electric field. This electrical regeneration allows the resins to function continuously without the need for chemical regeneration using acids or caustic solutions. EDI units are typically installed downstream of reverse osmosis systems to polish water to ultrapure levels, achieving conductivities as low as 18.2 MΩ·cm. They are widely used in industries requiring ultrapure water, such as semiconductor manufacturing, pharmaceuticals, and power generation, due to their efficiency, environmental friendliness, and ability to operate continuously.
 
 # Files
-src/Electrodeionization.slx (MATLAB/Simulink Ver. 2024b)
+src/Electrodeionization_R2024b.slx (MATLAB/Simulink Ver. 2024b)
 
 # Get in contact:
 <a href="mailto:&#119;&#097;&#116;&#101;&#114;&#064;&#100;&#101;&#099;&#104;&#101;&#109;&#097;&#046;&#100;&#101;">Send us a Mail</a>
